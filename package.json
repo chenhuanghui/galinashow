@@ -1,0 +1,24 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "brew": "0.0.8",
+    "cors": "^2.8.4",
+    "ejs": "^2.6.1",
+    "errorhandler": "^1.5.0",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "mongodb-core": "^3.1.5",
+    "mongoose": "^5.2.18",
+    "morgan": "^1.9.1",
+    "path": "^0.12.7"
+  }
+}
