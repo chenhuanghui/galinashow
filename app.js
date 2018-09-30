@@ -16,6 +16,6 @@ app.get('/', (req, res) => res.render('index.html'));
 // });
 
 // Listen
-app.listen(3000, () => {
-    console.log('Server listing on 3000');
+app.listen(80, () => {
+    console.log('Server listing on 80');
 })
